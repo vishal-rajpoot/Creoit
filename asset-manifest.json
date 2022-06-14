@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Creoit/static/css/main.b565b4ee.css",
+    "main.js": "/Creoit/static/js/main.22ede2cc.js",
+    "static/media/banner.png": "/Creoit/static/media/banner.eb7a80f621eb51590099.png",
+    "static/media/man.jpg": "/Creoit/static/media/man.5ccfac413ff6b0f52743.jpg",
+    "static/media/earbuds.jpg": "/Creoit/static/media/earbuds.68421bd7afe4caed928f.jpg",
+    "static/media/smart watch.jpg": "/Creoit/static/media/smart watch.4421d2428f6ecb5556df.jpg",
+    "static/media/induction.jpg": "/Creoit/static/media/induction.372fd49d385d04d2d38d.jpg",
+    "static/media/kitchen-dining.jpg": "/Creoit/static/media/kitchen-dining.a6ef018d22d726d0df1e.jpg",
+    "static/media/farmley.jpg": "/Creoit/static/media/farmley.65aa9e5b3436a9cba6ba.jpg",
+    "static/media/kettle.jpg": "/Creoit/static/media/kettle.e2ff0ff5490b0758f30f.jpg",
+    "static/media/dumbell.jpg": "/Creoit/static/media/dumbell.8628ae6eedb81197ed56.jpg",
+    "static/media/pots.jpg": "/Creoit/static/media/pots.ea667f44e367d96ecca5.jpg",
+    "static/media/mixer-grinder.jpg": "/Creoit/static/media/mixer-grinder.e5e2b6b4061c9250f35d.jpg",
+    "static/media/bag.jpg": "/Creoit/static/media/bag.798406fc9e3ede5c32a6.jpg",
+    "static/media/bottle.jpg": "/Creoit/static/media/bottle.27c3efd034ec086b6e5f.jpg",
+    "static/media/electric-adapter.jpg": "/Creoit/static/media/electric-adapter.1e43339a1efe879ad8be.jpg",
+    "static/media/water-purifier.jpg": "/Creoit/static/media/water-purifier.1cbffc51a71088d7a39f.jpg",
+    "static/media/bean-bag.jpg": "/Creoit/static/media/bean-bag.2361059f1aee7f63a731.jpg",
+    "static/media/cooker.jpg": "/Creoit/static/media/cooker.0205e63f06df80a94a45.jpg",
+    "static/media/helmet.jpg": "/Creoit/static/media/helmet.7059b4638483a59c3f77.jpg",
+    "static/media/cooler.jpg": "/Creoit/static/media/cooler.6568e25b1535b7e4e7f6.jpg",
+    "static/media/appstorebutton.svg": "/Creoit/static/media/appstorebutton.d83c1570a75284722573f3aa5177fbeb.svg",
+    "static/media/oneplus.jpg": "/Creoit/static/media/oneplus.e6bc3ca3ec28e5d63315.jpg",
+    "static/media/google_play.svg": "/Creoit/static/media/google_play.a1be6f21eb36516c4248e5415e8f3a05.svg",
+    "static/media/zoozle.svg": "/Creoit/static/media/zoozle.f805b14fa42ca5586d91be25ca336d22.svg",
+    "index.html": "/Creoit/index.html",
+    "main.b565b4ee.css.map": "/Creoit/static/css/main.b565b4ee.css.map",
+    "main.22ede2cc.js.map": "/Creoit/static/js/main.22ede2cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b565b4ee.css",
+    "static/js/main.22ede2cc.js"
+  ]
+}
