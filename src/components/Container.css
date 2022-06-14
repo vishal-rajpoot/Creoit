@@ -1,0 +1,28 @@
+.Container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(241, 253, 253);
+    height: 500px;
+}
+@media (max-width: 875px) {
+    .Container{
+        flex-direction: column;
+        padding: 15% 0%;
+    }
+}
+.container-text h1{
+    font-size: 40px;
+    color: black;
+    font-weight: 400;
+}
+.container-text span{
+    color: rgb(2, 30, 122);
+    text-decoration: underline rgb(247, 206, 222);
+}
+.store{
+    margin-right: 15px;
+}
+.banner-img{
+    height: 400px;
+}

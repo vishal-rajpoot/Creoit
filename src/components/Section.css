@@ -1,0 +1,44 @@
+.section{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    padding: 4% 10%;
+}
+.section-text{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-around;
+}
+.section-text h1{
+    font-size: 40px;
+    font-weight: 500;
+    margin-bottom: -5px;
+}
+.section-text p{
+    font-size: 18px;
+    color: rgb(99, 99, 99);
+}
+.manImage{
+    height: 700px;
+    width: 500px;
+}
+.boxes{
+    position: absolute;
+    display: flex;
+    bottom : -3%;
+}
+.boxes-inside{
+    background: rgb(255, 255, 255);
+    color: #000;
+    box-shadow: 0 0 5px rgb(0, 0, 0);
+    margin-right: 10px;
+    width: 100%;
+    border-radius: 8px;
+    padding: 20px 0px;
+    align-items: flex-start;
+}
+.boxes-inside p{
+    font-size: 20px;
+}

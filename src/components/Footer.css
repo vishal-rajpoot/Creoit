@@ -1,0 +1,47 @@
+.footer{
+    height: 40vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5% 5%;
+    align-items: flex-start;
+    position: relative;
+}
+.cright{
+    position: absolute;
+    bottom: 1%;
+}
+@media (max-width:530px) {
+    .footer{
+        flex-direction: column;
+    }
+    .copyright{
+        display: flex;
+        flex-direction: column;
+    }
+}
+.logo{
+    line-height: 20px;
+}
+.mid{
+    line-height: 22px;
+}
+.mid h2{
+    font-weight: 500;
+    font-size: 15px;
+
+}
+.links-footer{
+    color: rgb(143, 143, 143);
+    font-weight: 300;
+}
+.footer-links{
+    margin: 2% 5%;
+}
+.imgs{
+    display: flex;
+    flex-direction: column;
+}
+.imgs>img{
+    margin-bottom: 10px;
+}

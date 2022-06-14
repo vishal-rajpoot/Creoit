@@ -1,0 +1,19 @@
+.main-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px 10%;
+    background-color: rgb(255, 255, 255);
+}
+.logo-img{
+    height: 30px;
+}
+.login-btn{
+    padding: 5px 10px;
+    background-color: rgb(83, 83, 245);
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    cursor: pointer;
+}
